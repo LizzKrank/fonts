@@ -1,0 +1,5 @@
+archive: https://github.com/notofonts/nastaliq/releases/download/NotoNastaliqUrdu-v3.005/NotoNastaliqUrdu-v3.005.zip
+branch: main
+files:
+  OFL.txt: OFL.txt
+  NotoNastaliqUrdu/googlefonts/variable-ttf/NotoNastaliqUrdu[wght].ttf: NotoNastaliqUrdu[wght].ttf
