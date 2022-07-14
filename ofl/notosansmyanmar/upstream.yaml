@@ -1,0 +1,5 @@
+archive: https://github.com/notofonts/myanmar/releases/download/NotoSansMyanmar-v2.106/NotoSansMyanmar-v2.106.zip
+branch: main
+files:
+  OFL.txt: OFL.txt
+  NotoSansMyanmar/googlefonts/variable-ttf/NotoSansMyanmar[wdth,wght].ttf: NotoSansMyanmar[wdth,wght].ttf
