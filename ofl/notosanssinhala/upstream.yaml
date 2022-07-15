@@ -1,0 +1,5 @@
+archive: https://github.com/notofonts/sinhala/releases/download/NotoSansSinhala-v2.005/NotoSansSinhala-v2.005.zip
+branch: main
+files:
+  OFL.txt: OFL.txt
+  NotoSansSinhala/googlefonts/variable-ttf/NotoSansSinhala[wdth,wght].ttf: NotoSansSinhala[wdth,wght].ttf
